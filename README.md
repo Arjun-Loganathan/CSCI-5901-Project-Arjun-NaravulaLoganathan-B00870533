@@ -1,4 +1,4 @@
-# Serving-Model
+# CSCI 5901 Project
 This repository contains the Jupyter Notebook required for CSCI 5901 Project
 
 Name: Arjun Naravula Loganathan
