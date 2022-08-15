@@ -1,7 +1,10 @@
 # Serving-Model
 This repository contains the Jupyter Notebook required for CSCI 5901 Project
+
 Name: Arjun Naravula Loganathan
+
 Email: ar302948@dal.ca
+
 B00870533
 
 # Reference
