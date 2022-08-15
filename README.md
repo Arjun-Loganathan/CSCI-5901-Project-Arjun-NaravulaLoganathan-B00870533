@@ -7,6 +7,10 @@ Email: ar302948@dal.ca
 
 B00870533
 
+## GitHub Link
+
+<https://github.com/Arjun-Loganathan/CSCI-5901-Project-Arjun-NaravulaLoganathan-B00870533>
+
 # Reference
 
 [1] tensorflow, “tfx/penguin_simple.ipynb at master · tensorflow/tfx,” GitHub, May 24, 2022. https://github.com/tensorflow/tfx/blob/master/docs/tutorials/tfx/penguin_simple.ipynb.
